@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "Tongyi",
-      "title": "Tongyi",
+      "name": "tongyi",
+      "title": "tongyi",
       "name_zh": "通义千问",
       "url": "https://tongyi.aliyun.com/qianwen/"
     }
